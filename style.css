@@ -309,6 +309,10 @@ input::placeholder {
   form {
     padding: 3.2rem 3.4rem;
   }
+  
+  .col-3 > div:nth-child(1) {
+    margin-right: 0rem;
+  }
 }
 
 @keyframes leftCenter {
